@@ -10,3 +10,5 @@ Each of you create your own folder and commit your business ideas there. Let's b
 - Commit regularly so we can track everyone's contributions and collaborate easily.
 
 Let’s build something great together!
+
+LFG
